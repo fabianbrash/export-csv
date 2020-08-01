@@ -1,0 +1,14 @@
+{
+  "name": "export-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Fabian Brash",
+  "license": "ISC",
+  "dependencies": {
+    "objects-to-csv": "^1.3.6"
+  }
+}
